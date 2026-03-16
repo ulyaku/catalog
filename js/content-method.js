@@ -54,7 +54,7 @@ var SITE_METHOD = {
       tag:      'Keşif Seansı',
       price:    'Ücretsiz',
       period:   '30 dakika · ilk tanışma',
-      text:     'Öğrenciyi tanıyorum, dünyasını dinliyorum. Hiçbir taahhüt yok.',
+      text:     'Öğrenciyi tanıyorum, dünyasını dinliyorum.',
       featured: false
     },
     {
