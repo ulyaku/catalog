@@ -16,7 +16,7 @@ var SITE_METHOD = {
   ---------------------------------------------------------- */
   sections: {
     steps_title:   'Neden sadece gramer öğretmiyorum?',
-    steps_sub:     'Gramer haritadır. Ama haritayı evde okumak yerine arazide yürümeyi öğretiyorum. Her ders şu dört adıma sadık kalır:',
+    steps_sub:     'Gramer haritadır. Haritayı evde okumak yerine arazide yürümeyi öğretiyorum. Her ders şu dört adıma sadık kalır:',
     belief_title:  'Temel inanç',
     pricing_title: 'Ücretler',
     pricing_sub:   'Tüm dersler bire-birdir. Grup dersleri talep üzerine planlanır.'
@@ -50,7 +50,7 @@ var SITE_METHOD = {
      TEMEL İNANÇ — Yöntem sayfasındaki alıntı metni
      <em>...</em> = italik, <strong>...</strong> = kalın
   ---------------------------------------------------------- */
-  belief: '<em>Bene-</em>\'nin "iyi" anlamına geldiğini öğrenen bir çocuk — benefit, benevolent, beneficial — herhangi bir kelime listesinden çok daha fazlasına kapı aralar. Derslerim bu kök-önce sezgiyi ilk günden inşa eder. Dil, kural koleksiyonu değil, yaşayan bir sistemdir.',
+  belief: '<em>Bene-</em>\'nin "iyi" anlamına geldiğini öğrenen bir çocuk — benefit, benevolent, beneficial — herhangi bir kelime listesinden çok daha fazlasına kapı aralar. Derslerim bu sezgiyi ilk günden inşa eder. Dil, kural koleksiyonu değil, yaşayan bir sistemdir.',
 
 
   /* ----------------------------------------------------------
