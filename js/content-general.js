@@ -19,7 +19,7 @@ var SITE_GENERAL = {
   instagram:   'https://www.instagram.com/ulyapho',
   email:       'ulyaakucur@gmail.com',
   location:    'İstanbul · Online ve Yüz Yüze',
-  footer_text: '-',
+  footer_text: ' ',
   footer_copy: 'İstanbul · Felsefe & Dil · 2026',
 
   // ─────────────────────────────────────────────────────────
