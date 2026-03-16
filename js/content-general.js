@@ -19,8 +19,8 @@ var SITE_GENERAL = {
   instagram:   'https://www.instagram.com/ulyapho',
   email:       'ulyaakucur@gmail.com',
   location:    'İstanbul · Online ve Yüz Yüze',
-  footer_text: 'Boğaziçi Üniversitesi',
-  footer_copy: 'İstanbul · Felsefe & Dil · 2024',
+  footer_text: '-',
+  footer_copy: 'İstanbul · Felsefe & Dil · 2026',
 
   // ─────────────────────────────────────────────────────────
   // FORMSPREE — form gönderimi için e-posta servisi
