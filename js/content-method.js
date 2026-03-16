@@ -17,7 +17,7 @@ var SITE_METHOD = {
   sections: {
     steps_title:   'Neden sadece gramer öğretmiyorum?',
     steps_sub:     'Gramer haritadır. Haritayı evde okumak yerine arazide yürümeyi öğretiyorum. Her ders şu dört adıma sadık kalır:',
-    belief_title:  'Temel inanç',
+    belief_title:  'Temel yaklaşım',
     pricing_title: 'Ücretler',
     pricing_sub:   'Tüm dersler bire-birdir. Grup dersleri talep üzerine planlanır.'
   },
