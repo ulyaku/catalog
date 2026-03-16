@@ -42,7 +42,7 @@ var SITE = {
     //   2. "New Form" oluştur → adı "ulyapho contact" yap
     //   3. Sana verilen URL'yi aşağıya yapıştır (örnek aşağıda)
     // ─────────────────────────────────────────────────────
-    formspree_url: 'https://formspree.io/f/YOUR_FORM_ID'
+    formspree_url: 'https://formspree.io/f/mgonnzkb'
     //                                        ^^^^^^^^^^^
     //              Formspree'den aldığın kodu buraya yaz
   },
