@@ -17,8 +17,8 @@ var SITE_HOME = {
   ---------------------------------------------------------- */
   hero: {
     title: 'İngilizce öğrenmek\nbir macera olabilir.',
-    para1: 'Boğaziçi Üniversitesi Felsefe öğrencisiyim. Gramer ezberinden değil, kelimelerin kökeninden, masalların mantığından ve her çocuğun kendi dünyasından başlayan dersler tasarlıyorum.',
-    para2: 'Her ders, o çocuğa özel kurulur. Çünkü dili anlamak için önce düşünmeyi öğrenmek gerekir.'
+    para1: 'Boğaziçi Üniversitesi Felsefe öğrencisiyim. Gramer ezberinden değil, kelimelerin kökeninden, masalların derinliğinden ve kişinin kendi dünyasından başlayan dersler tasarlıyorum.',
+    para2: 'Her ders, kişiye özel kurulur. Çünkü dili anlamak için önce düşünmeyi öğrenmek gerekir.'
   },
 
 
@@ -33,7 +33,7 @@ var SITE_HOME = {
     },
     {
       title: 'Masalsı Akıl Yürütme',
-      text:  'Ezop ve Grimm masallarını analiz ederek grameri bir mantık çerçevesinde kavratıyoruz. Kurallar değil, örüntüler.'
+      text:  'Ezop ve Grimm masallarını analiz ederek grameri bir mantık çerçevesinde kavrıyoruz. Kurallar değil, örüntüler.'
     },
     {
       title: 'Kişiye Özel Oyun',
@@ -41,15 +41,15 @@ var SITE_HOME = {
     },
     {
       title: 'Önce Düşün, Sonra Söyle',
-      text:  'Sokratik sorularla öğrenci anlama ulaşır — çeviriye değil, dil sezgisine. Cevabı bulmak, cevabı ezberlemekten çok daha kalıcıdır.'
+      text:  'Sokratik sorularla öğrenci anlama ulaşır - çeviriyle değil, dil sezgisiyle. Cevabı bulmak, cevabı ezberlemekten çok daha kalıcıdır.'
     },
     {
       title: 'Üret, Yaz, Konuş',
-      text:  'Çizgi roman, kısa podcast, felsefi tartışma — öğrenci gerçek bir şey üretir. Performans, kavrayışın doğal sonucudur.'
+      text:  'Çizgi roman, podcast, felsefi yaklaşım - öğrenci gerçek bir şey üretir. Performans, kavrayışın doğal sonucudur.'
     },
     {
       title: 'Not Değil, İlerleme',
-      text:  'Her ders sonrası ebeveynlere kısa bir not iletiyorum. İlerleme; güven ve merak ile ölçülür, test puanıyla değil.'
+      text:  'Belirli periyodlarda ebeveynlere kısa bir not iletiyorum. İlerleme, güven ve merak ile ölçülür, test puanıyla değil.'
     }
   ],
 
@@ -65,7 +65,7 @@ var SITE_HOME = {
       age:   '8–10 Yaş · İlkokul',
       title: 'Küçük Kaşifler',
       items: [
-        'Hayvan masalları ve canlandırma oyunları',
+        'Masallar ve canlandırma oyunları',
         'Mitoloji ile kelime kökleri',
         'Resimli kitap okuma ve konuşma',
         '30–45 dakika, oyun ağırlıklı'
@@ -76,9 +76,9 @@ var SITE_HOME = {
       age:   '11–13 Yaş · Ortaokul',
       title: 'Hikaye Dedektifleri',
       items: [
-        'Kısa hikaye analizi ve tartışma',
-        'Grek mitolojisi ile kelime haznesi',
-        'Yaratıcı yazarlık maceraları',
+        'Hikaye analizi ve tartışma',
+        'Mitoloji ile kelime haznesi',
+        'Yaratıcı yazarlık',
         'Mantık bulmacaları ile gramer'
       ]
     },
