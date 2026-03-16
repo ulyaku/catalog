@@ -39,10 +39,10 @@ var SITE = {
     // FORMSPREE — ücretsiz e-posta gönderimi için
     // Nasıl kurulur:
     //   1. formspree.io adresine git → ücretsiz kayıt ol
-    //   2. "New Form" oluştur → adı "ulyapho contact" yap
-    //   3. Sana verilen URL'yi aşağıya yapıştır (örnek aşağıda)
+    //   2. "New Form" oluştur → adı "ulyaku contact" yap
+    //   3. Sana verilen URL'yi aşağıya yapıştır 
     // ─────────────────────────────────────────────────────
-    formspree_url: 'https://formspree.io/f/mgonnzkb'
+    formspree_url: 'https://formspree.io/f/mgonnznd'
   },
 
 
